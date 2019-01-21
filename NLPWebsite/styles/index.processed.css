@@ -1,0 +1,22 @@
+.buttonHolder {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.btn-group .btn-group-toggle {
+  cursor: pointer;
+}
+
+.container {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.submitHolder {
+  text-align: center;
+}
+
+.list-group {
+  max-height: 400px;
+  overflow: scroll;
+}
